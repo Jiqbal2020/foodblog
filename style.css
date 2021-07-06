@@ -1,0 +1,41 @@
+
+body{
+
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+h1{
+    font-size: 40px;
+}
+
+.blue-color{
+    color: blue;
+}
+
+
+section{
+    display: flex;
+    
+}
+.half-width{
+    width: 40%;
+    margin: 70px 30px;
+    padding-left: 150px;
+   
+}
+.half-width img{
+    width: 100%;
+ 
+
+}
+
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 700;
+}
+
+
